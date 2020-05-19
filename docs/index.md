@@ -12,10 +12,11 @@
   * Item 2a
   
 1. Fruits
-  1. Apples
-  2. Banana
+   1. Apple
+   2. Orange
 2. Vegetables
-  2. Carrots
+   1. Carrots
+   2. Lettuce
   
 http://github.com or [GitHub](/http://github.com)
 
