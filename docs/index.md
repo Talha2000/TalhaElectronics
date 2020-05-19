@@ -19,6 +19,7 @@
    2. Lettuce
   
 http://github.com
+
 ![GitHub](/http://github.com)
 
 `def fun():
@@ -30,4 +31,4 @@ First Header | Second Header
 Book | Kite Runner
 Fruit | Apple
 
-:grinning:
+![Alt text](:grinning:)
