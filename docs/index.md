@@ -31,4 +31,4 @@ First Header | Second Header
 Book | Kite Runner
 Fruit | Apple
 
-![Alt text](:grinning:)
+:grinning:
