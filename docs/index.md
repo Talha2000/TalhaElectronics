@@ -14,6 +14,7 @@
 1. Fruits
    1. Apple
    2. Orange
+   3. Banana
 2. Vegetables
    1. Carrots
    2. Lettuce
