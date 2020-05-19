@@ -20,11 +20,13 @@
   
 http://github.com or [GitHub](/http://github.com)
 
-`<p>Hello world</p>`
+`def fun():
+     if x = 3:
+         return True`
 
 First Header | Second Header
 ------------ | -------------
 Book | Kite Runner
 Fruit | Apple
 
-:grinning:
+`:grinning:`
