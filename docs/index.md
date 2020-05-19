@@ -18,7 +18,8 @@
    1. Carrots
    2. Lettuce
   
-http://github.com or [GitHub](/http://github.com)
+http://github.com
+![GitHub](/http://github.com)
 
 `def fun():
      if x = 3:
@@ -29,4 +30,4 @@ First Header | Second Header
 Book | Kite Runner
 Fruit | Apple
 
-`:grinning:`
+:grinning:
